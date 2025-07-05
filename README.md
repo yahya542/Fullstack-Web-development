@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-yahya542-181717?style=flat&logo=github">
   </a>
   <a href="mailto:muhyahyaas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muhyyahyaas@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-muhyahyaas@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/muhammad-yahya-abdullahissalam-083b73327/">
     <img src="https://img.shields.io/badge/LinkedIn-muhammad--yahya--abdullahissalam-blue?style=flat&logo=linkedin">
