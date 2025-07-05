@@ -32,7 +32,7 @@ Saya juga aktif sebagai **pengajar backend** di komunitas pemrograman serta memb
 - Aktif kolaborasi dan kontribusi teknis
 
 📍 **Lokasi:** Pamekasan, Jawa Timur  
-📫 **Email:** muhyyahyaas@gmail.com  
+📫 **Email:** muhyahyaas@gmail.com  
 🔗 **GitHub:** [github.com/yahya542](https://github.com/yahya542)
 
 ---
