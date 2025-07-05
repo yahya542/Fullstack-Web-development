@@ -37,10 +37,20 @@ Saya juga aktif sebagai **pengajar backend** di komunitas pemrograman serta memb
 
 ---
 
-## 🏫 Pendidikan
+## 🏫 Pendidikan<p align="center">
+  <img src="./assets/login.jpg" width="100" alt="Login Page">
+  <img src="./assets/signup.jpg" width="100" alt="su Page">
+  <img src="./assets/db.jpg" width="100" alt="db Page">
+  <img src="./assets/icon.jpg" width="100" alt="awal Page">
+  <img src="./assets/profile.jpg" width="100" alt="profile Page">
+  <img src="./assets/leaderbord.jpg" width="100" alt="Ldb Page">
+  <img src="./assets/comingsoon.jpg" width="100" alt="cs Page">
+  
+
+</p>
 
 **Universitas Islam Madura**  
-S1 Informatika (Semester 4)  
+S1 Informatika 
 2023 – Sekarang
 
 ---
@@ -52,6 +62,13 @@ Mengajar backend web secara volunteer, membimbing peserta dalam:
 - Django, Flask, MVC
 - CRUD + REST API
 - Studi kasus mini project
+**Dokumentasi:**
+<p align="center">
+  <img src="./assets/1.jpg" width="100" alt="1 Page">
+  <img src="./assets/2.jpg" width="100" alt="2 Page">
+  <img src="./assets/3.jpg" width="100" alt="3 Page">
+  <img src="./assets/4.jpg" width="100" alt="4 Page">
+</p>
 
 ### 🌐 Sistem Web Sederhana – Laravel + MySQL (Mei – Okt 2024)
 Aplikasi lokal dengan fitur login, autentikasi, dashboard admin, dan manajemen pengguna.  
