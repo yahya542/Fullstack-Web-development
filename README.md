@@ -10,11 +10,11 @@
   <a href="https://github.com/yahya542">
     <img src="https://img.shields.io/badge/GitHub-yahya542-181717?style=flat&logo=github">
   </a>
-  <a href="mailto:muhyyahyaas@gmail.com">
+  <a href="mailto:muhyahyaas@gmail.com">
     <img src="https://img.shields.io/badge/Email-muhyyahyaas@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  <a href="https://www.linkedin.com/in/muhammad-yahya-abdullahissalam-083b73327/">
+    <img src="https://img.shields.io/badge/LinkedIn-muhammad--yahya--abdullahissalam-blue?style=flat&logo=linkedin">
   </a>
 </p>
 
