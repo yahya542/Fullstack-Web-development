@@ -37,15 +37,7 @@ Saya juga aktif sebagai **pengajar backend** di komunitas pemrograman serta memb
 
 ---
 
-## 🏫 Pendidikan<p align="center">
-  <img src="./assets/1.jpg" width="100" alt="Login Page">
-  <img src="./assets/2.jpg" width="100" alt="su Page">
-  <img src="./assets/3.jpg" width="100" alt="db Page">
-  <img src="./assets/4.jpg" width="100" alt="awal Page">
- 
-  
 
-</p>
 
 **Universitas Islam Madura**  
 S1 Informatika 
