@@ -106,7 +106,6 @@ Backend layanan jasa tukang berbasis lokasi:
 📨 **Email:** muhyahyaas@gmail.com  
 📱 **WhatsApp:** +62 812-5999-3397  
 🌐 **LinkedIn / Portfolio:** https://www.linkedin.com/in/muhammad-yahya-abdullahissalam-083b73327/
-
 🔗 **GitHub:** [github.com/yahya542](https://github.com/yahya542)
 
 ---
