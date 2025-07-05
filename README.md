@@ -1,10 +1,23 @@
-<h1 align="center">🌐 WebApp Portfolio — Muhammad Yahya Abdullahissalam</h1>
+<h1 align="center">
+  🚀 Muhammad Yahya Abdullahissalam
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full+Stack+Web+Developer;Django+%7C+Laravel+%7C+Golang+%7C+PHP" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FF4DB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Backend+Architect+%7C+Django%2C+Laravel%2C+Golang;Passionate+Builder+%7C+Clean+Code+Lover+%7C+Team+Player" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/yahya542">
+    <img src="https://img.shields.io/badge/GitHub-yahya542-181717?style=flat&logo=github">
+  </a>
+  <a href="mailto:muhyyahyaas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muhyyahyaas@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+</p>
+
 
 ## 🧑‍💻 Tentang Saya
 
